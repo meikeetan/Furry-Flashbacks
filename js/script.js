@@ -74,7 +74,7 @@ function resetGame() {
 
 //fetchData function
 function fetchData(catTypes) {
-  fetch(`https://github.com/meikeetan/Furry-Flashbacks/blob/main/data/latte.json`) 
+  fetch(`https://meikeetan.github.io/Furry-Flashbacks/data/latte.json`) 
  .then((res) => res.json())
     .then((data) => {
       cards = [...data, ...data]; 

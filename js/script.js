@@ -75,18 +75,10 @@ function resetGame() {
 //fetchData function
 function fetchData(catTypes) {
   fetch(`../data/${catTypes}.json`) 
-   .then((res) => {
-      if (!res.ok) {
-        throw new Error(`Network response was not ok: ${res.statusText}`);
-      }
-      return res.json();
-    })
+ .then((res) => res.json())
     .then((data) => {
-      cards = [...data, ...data];
+      cards = [...data, ...data]; 
       resetGame();
-    })
-    .catch((error) => {
-      console.error('Error fetching data:', error);
     });
 }
 

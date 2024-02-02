@@ -74,7 +74,7 @@ function resetGame() {
 
 //fetchData function
 function fetchData(catTypes) {
-  fetch(`../data/${catTypes}.json`) 
+  fetch(`Furry-Flashbacks/data/${catTypes}.json`) 
     .then((res) => res.json())
     .then((data) => {
       cards = [...data, ...data]; 

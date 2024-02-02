@@ -46,36 +46,28 @@ Each object in the array represents a card with two key-value pairs:
 
 const mainboard: 
 - Represents game board to append the cards into this div when they are generated.
-<br>
-<br>
+
 const resetButton: 
 - Represents reset button on the user interface, and so that I can add event listeners later on
-<br>
-<br>
+
 const winLoseAlert: 
 - Represents an element to display win/lose messages, which will be modified depending on the result of the game.
-<br>
-<br>
+
 const initialCatType: 
 - Specifies the default cat type.
-<br>
-<br>
+
 cards: 
 - An array to hold all cards.
-<br>
-<br>
+
 firstCard, secondCard: 
 - Variables with no initial value, will be used later for card comparison.
-<br>
-<br>
+
 lockBoard: 
 - Disables clicking of cards during certain events.
-<br>
-<br>
+
 moveCount: 
 - Tracks the number of moves made by the player.
-<br>
-<br>
+
 catTypeSelector: 
 - Represents the dropdown for selecting cat types.
 

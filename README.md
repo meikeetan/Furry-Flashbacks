@@ -90,20 +90,18 @@ catTypeSelector:
 document.getElementById("moveCount").textContent = moveCount;
 
 #### Functions
+
 resetBoard() : 
 - Resets the `firstCard`, `secondCard` and `lockBoard` variables. 
-<br>
-<br>
+
 generateCards() : 
 - Dynamically creates HTML elements for each card based on the data fetched.
 - Appends these elements to the game board (`mainBoard`).
 - Adds a click event listener (`flipCard`) to each card.
-<br>
-<br>
+
 shuffleCards() :
 - Uses the Fisher-Yates algorithm to shuffle the cards array randomly.
-<br>
-<br>
+
 resetGame() :
 - Calls `resetBoard` to clear card-related variables.
 - Shuffles the cards.
@@ -111,39 +109,32 @@ resetGame() :
 - Clears the game board (`mainBoard`). 
 - Generates new cards.
 - Hides the win/lose alert.
-<br>
-<br>
+
 fetchData() :
 - Fetches card information from a JSON file based on the selected cat type.
 - Creates pairs of cards by duplicating the data.
 - Calls `resetGame` to initialize the game.
-<br>
-<br>
+
 unflipCards() : 
 - Uses `setTimeout` to wait for 1 second before removing the flipped class.
 - Calls `resetBoard` if the move count is less than 30.
-<br>
-<br>
+
 disableCards() : 
 - Removes the click event listener from the first and second cards.
 - Calls `resetBoard` if the move count is less than 30.
-<br>
-<br>
+
 checkForMatch() :
 - Compares the data-name attribute of the first and second cards to check if they match.
 - Calls `disableCards` if there's a match, otherwise calls `unflipCards`.
-<br>
-<br>
+
 winGame() :
 - Checks if all cards are flipped.
 - Displays a win message and locks the board if the condition is met.
-<br>
-<br>
+
 winOrLose() : 
 - Calls `winGame`.
 - Displays GAMEOVER and locks the board if the move count exceeds 30.
-<br>
-<br>
+
 flipCard() : 
 - Flips the clicked card.
 - Tracks the first and second cards for comparison.

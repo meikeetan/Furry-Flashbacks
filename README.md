@@ -7,7 +7,7 @@ Refer to rules.txt for more detailed explanation on how to play the game.
 
 <br>
 
-## [PLAY HERE](meikeetan.github.io/Furry-Flashbacks)
+## [PLAY HERE](https://meikeetan.github.io/Furry-Flashbacks/)
 
 <br>
 

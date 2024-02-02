@@ -1,38 +1,38 @@
 [
     {
-        "image": "../catPhotos/koffee/koffeeOne.png",
+        "image": "https://meikeetan.github.io/Furry-Flashbacks/catPhotos/koffee/koffeeOne.png",
         "name": "koffeeOne"
     },
     {
-        "image": "../catPhotos/koffee/koffeeTwo.png",
+        "image": "https://meikeetan.github.io/Furry-Flashbacks/catPhotos/koffee/koffeeTwo.png",
         "name": "koffeeTwo"
     },
     {
-        "image": "../catPhotos/koffee/koffeeThree.png",
+        "image": "https://meikeetan.github.io/Furry-Flashbacks/catPhotos/koffee/koffeeThree.png",
         "name": "koffeeThree"
     },
     {
-        "image": "../catPhotos/koffee/koffeeFour.png",
+        "image": "https://meikeetan.github.io/Furry-Flashbacks/catPhotos/koffee/koffeeFour.png",
         "name": "koffeeFour"
     },
     {
-        "image": "../catPhotos/koffee/koffeeFive.png",
+        "image": "https://meikeetan.github.io/Furry-Flashbacks/catPhotos/koffee/koffeeFive.png",
         "name": "koffeeFive"
     },
     {
-        "image": "../catPhotos/koffee/koffeeSix.png",
+        "image": "https://meikeetan.github.io/Furry-Flashbacks/catPhotos/koffee/koffeeSix.png",
         "name": "koffeeSix"
     },
     {
-        "image": "../catPhotos/koffee/koffeeSeven.png",
+        "image": "https://meikeetan.github.io/Furry-Flashbacks/catPhotos/koffee/koffeeSeven.png",
         "name": "koffeeSeven"
     },
     {
-        "image": "../catPhotos/koffee/koffeeEight.png",
+        "image": "https://meikeetan.github.io/Furry-Flashbacks/catPhotos/koffee/koffeeEight.png",
         "name": "koffeeEight"
     },
     {
-        "image": "../catPhotos/koffee/koffeeNine.png",
+        "image": "https://meikeetan.github.io/Furry-Flashbacks/catPhotos/koffee/koffeeNine.png",
         "name": "koffeeNine"
     }
 ]

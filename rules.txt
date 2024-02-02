@@ -1,0 +1,9 @@
+Furry Flashbacks Game Rules:
+
+1. Start by picking your favorite cat (Koffee or Latte) from the dropdown menu.
+2. Click on a card to flip it and then click another card, trying to find matching images.
+3. If both cards show the same images, they stay face-up, and you add one to your move count.
+4. But if both cards do not match, they flip back down, and your move count goes up too.
+5. Keep at it until you've uncovered all the pairs -- it's all about matching those images!
+6. Be mindful, though! If you take more than 30 moves, the game ends, and unfortunately, you don't win.
+7. The big win? Completing the game in under 30 moves —- showing off your skills at matching those furry flashbacks!

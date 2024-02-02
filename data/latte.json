@@ -1,0 +1,38 @@
+[
+    {
+        "image": "../catPhotos/latte/latteOne.png",
+        "name": "latteOne"
+    },
+    {
+        "image": "../catPhotos/latte/latteTwo.png",
+        "name": "latteTwo"
+    },
+    {
+        "image": "../catPhotos/latte/latteThree.png",
+        "name": "latteThree"
+    },
+    {
+        "image": "../catPhotos/latte/latteFour.png",
+        "name": "latteFour"
+    },
+    {
+        "image": "../catPhotos/latte/latteFive.png",
+        "name": "latteFive"
+    },
+    {
+        "image": "../catPhotos/latte/latteSix.png",
+        "name": "latteSix"
+    },
+    {
+        "image": "../catPhotos/latte/latteSeven.png",
+        "name": "latteSeven"
+    },
+    {
+        "image": "../catPhotos/latte/latteEight.png",
+        "name": "latteEight"
+    },
+    {
+        "image": "../catPhotos/latte/latteNine.png",
+        "name": "latteNine"
+    }
+]

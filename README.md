@@ -2,7 +2,7 @@
 
 ![Alt text](image.png)
 
-This is a simple 6x6 memory card game implemented using HTML, CSS, and JavaScript. Player gets to choose between two cats – Koffee and Latte. Your mission is to flip the cards and seek matching images. Successful pairs stay face-up, and you aim to complete the challenge in under 30 moves to win. Be strategic, match images, and enjoy the thrill of Furry Flashbacks!
+This is a simple memory card game implemented using HTML, CSS, and JavaScript. Player gets to choose between two cats – Koffee and Latte. Your mission is to flip the cards and seek matching images. Successful pairs stay face-up, and you aim to complete the challenge in under 30 moves to win. Be strategic, match images, and enjoy the thrill of Furry Flashbacks!
 Refer to rules.txt for more detailed explanation on how to play the game.
 
 <br>
